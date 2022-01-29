@@ -6,10 +6,10 @@ import java.util.List;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.example.exception.SlotNotAvailableException;
 import com.example.parkinglot.controller.EntryPointController;
 import com.example.parkinglot.controller.ExitPointController;
 import com.example.parkinglot.controller.ParkingTicketController;
+import com.example.parkinglot.exception.SlotNotAvailableException;
 import com.example.parkinglot.model.Bike;
 import com.example.parkinglot.model.Car;
 import com.example.parkinglot.model.EntryPoint;

@@ -2,7 +2,7 @@ package com.example.parkinglot.strategy;
 
 import java.util.List;
 
-import com.example.exception.SlotNotAvailableException;
+import com.example.parkinglot.exception.SlotNotAvailableException;
 import com.example.parkinglot.model.EntryPoint;
 import com.example.parkinglot.model.Slot;
 import com.example.parkinglot.model.Vehicle;

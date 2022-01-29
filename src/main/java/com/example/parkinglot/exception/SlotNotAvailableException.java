@@ -1,4 +1,4 @@
-package com.example.exception;
+package com.example.parkinglot.exception;
 
 public class SlotNotAvailableException extends RuntimeException {
 	public SlotNotAvailableException() {
